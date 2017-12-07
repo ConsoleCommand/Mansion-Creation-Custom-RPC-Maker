@@ -34,6 +34,8 @@ https://notepad-plus-plus.org/download/
 
 10- "mavis.js"'de Gerekli Herşey Yazılıdır. 
 
+11- İşlemleriniz Bitince "Baslat.bat"'e Çift Tıklayarak RPC Maker'ı Devreye Sokabilirsiniz.
+
 # Teşekkürler
 
 Umarım Custom-RPC-Maker Hoşunuza Gitmiştir. Kurulumu Sizin Ve İntarnetinizin Hızına Bağladır.
