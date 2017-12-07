@@ -18,7 +18,7 @@ https://notepad-plus-plus.org/download/
 
 2- Klasörü Açıp "Shift+Sağ" Click Yapıp "Komut Penceresini Burada Aç"'a Tıklayın Bu Size Konsolu Açacaktır.
 
-3- Konsola "npm i discord-rpc" Yazın Ve İndirmesini Bekleyin.
+3- Konsola "npm install"  Yazın Ve İndirmesini Bekleyin. Ardından "npm install discord-rpc" Yazıp Onuda Bekleyin
 
 4- İndirme Bitince https://discordapp.com/developers/applications/me Girin.
 
