@@ -12,7 +12,7 @@ https://notepad-plus-plus.org/download/
 
 
 # KURULUM
-1- .zip Olarak İndirip Dosyaları Dışarı Aktarın
+1- .zip Olarak İndirip Dosyaları Dışarı Aktarın\n
 2- Klasörü Açıp "Shift+Sağ" Click Yapıp "Komut Penceresini Burada Aç"'a Tıklayın Bu Size Konsolu Açacaktır.
 3- Konsola "npm i discord-rpc" Yazın Ve İndirmesini Bekleyin
 4- İndirme Bitince https://discordapp.com/developers/applications/me Girin,
