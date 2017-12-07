@@ -28,13 +28,17 @@ https://notepad-plus-plus.org/download/
 
 7- En Aşşağıda "RICH PRESENCE ASSETS" Bölümüne Gelin Bir "Large" Birde "Small" Fotoğraf Yükleyin.
 
-8- Bunu Yaptıktan Sonra İndirip Dışarıya Çıkardığımız Klasöre Girelim. 
+8- Yaratılan "App"'in "ClientId"'sini Kopyalayın.
 
-9- "mavis.js" Dosyasına sağ tıklayıp "Edit With NodePad++"'a Tıklayın.
+9- Bunu Yaptıktan Sonra İndirip Dışarıya Çıkardığımız Klasöre Girelim. 
 
-10- "mavis.js"'de Gerekli Herşey Yazılıdır. 
+10- "mavis.js" Dosyasına sağ tıklayıp "Edit With NodePad++"'a Tıklayın.
 
-11- İşlemleriniz Bitince "Baslat.bat"'e Çift Tıklayarak RPC Maker'ı Devreye Sokabilirsiniz.
+11- Kopyaladığımız "ClientId"'yi "mavis.js"'de Gösterilen Yere Yapıştırın
+
+12- "mavis.js"'de Gerekli Herşey Yazılıdır. 
+
+13- İşlemleriniz Bitince "Baslat.bat"'e Çift Tıklayarak RPC Maker'ı Devreye Sokabilirsiniz.
 
 # Teşekkürler
 
