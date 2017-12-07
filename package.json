@@ -1,0 +1,10 @@
+{
+  "name": "Discord-RPC-Maker",
+  "version": "1.0.0",
+  "description": "Türkler İçin Hazırlanmış Olan Bir Discord-RPC-Maker'dır",
+  "main": "mavis.js",
+  "author": "Console.Owner("Maviş");",
+  "dependencies": {
+    "discord-rpc": "^3.0.0-beta.4",
+  }
+}
