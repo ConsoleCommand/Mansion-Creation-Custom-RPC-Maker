@@ -43,3 +43,9 @@ https://notepad-plus-plus.org/download/
 # Teşekkürler
 
 Umarım Custom-RPC-Maker Hoşunuza Gitmiştir. Kurulumu Sizin Ve İntarnetinizin Hızına Bağladır.
+
+# Sorununuz Mu Var ?
+
+https://discord.gg/TJdbrWa
+
+Sunucuma Gelerek Yardım Alabilirsiniz.
