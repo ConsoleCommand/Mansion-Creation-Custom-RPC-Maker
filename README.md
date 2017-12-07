@@ -6,7 +6,7 @@ Node Olmazsa Program Hiçbirşekilde Açılmaz. Bu Linkten Son Sürümü İndiri
 
 https://nodejs.org/en/
 
-# NodePad++
+# NotePad++
 Basit-Tüm Bilgisayarların Kaldırdığı Kod Editör Penceresi. Bunu RPC'nizi Custom Yapmak İçin Kullanıcaz. 
 Bu Linkten Son Sürümü İndirin.
 
@@ -32,7 +32,7 @@ https://notepad-plus-plus.org/download/
 
 9- Bunu Yaptıktan Sonra İndirip Dışarıya Çıkardığımız Klasöre Girelim. 
 
-10- "mavis.js" Dosyasına sağ tıklayıp "Edit With NodePad++"'a Tıklayın.
+10- "mavis.js" Dosyasına sağ tıklayıp "Edit With NotePad++"'a Tıklayın.
 
 11- Kopyaladığımız "ClientId"'yi "mavis.js"'de Gösterilen Yere Yapıştırın
 
