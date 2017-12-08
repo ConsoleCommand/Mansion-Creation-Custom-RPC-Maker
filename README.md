@@ -8,6 +8,7 @@ https://nodejs.org/en/
 
 # Git
 Bu Arkadaşı İndirelim Köşede Dursun Lazım Çünkü.
+
 https://git-scm.com/download/win
 
 # NotePad++
