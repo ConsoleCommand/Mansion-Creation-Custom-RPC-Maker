@@ -6,6 +6,10 @@ Node Olmazsa Program Hiçbirşekilde Açılmaz. Bu Linkten Son Sürümü İndiri
 
 https://nodejs.org/en/
 
+# Git
+Bu Arkadaşı İndirelim Köşede Dursun Lazım Çünkü.
+https://git-scm.com/download/win
+
 # NotePad++
 Basit-Tüm Bilgisayarların Kaldırdığı Kod Editör Penceresi. Bunu RPC'nizi Custom Yapmak İçin Kullanıcaz. 
 Bu Linkten Son Sürümü İndirin.
