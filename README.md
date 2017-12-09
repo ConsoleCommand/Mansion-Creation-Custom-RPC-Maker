@@ -57,7 +57,7 @@ Umarım Custom-RPC-Maker Hoşunuza Gitmiştir. Kurulumu Sizin Ve İntarnetinizin
 
 # Sorununuz Mu Var ?
 
-1- Buradan Modül İndirmeden (Direk Kurulum Kısmının 4. Adımından Başlayarak) Kurabilirsiniz.
+Buradan Modül İndirmeden (Direk Kurulum Kısmının 4. Adımından Başlayarak) Kurabilirsiniz.
 
 http://dosya.co/7wyvnwk6g02i/Mansion-Creation-Custom-RPC-Maker-master.rar.html
 
