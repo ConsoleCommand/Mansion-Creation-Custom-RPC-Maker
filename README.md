@@ -55,6 +55,8 @@ https://notepad-plus-plus.org/download/
 
 Umarım Custom-RPC-Maker Hoşunuza Gitmiştir. Kurulumu Sizin Ve İntarnetinizin Hızına Bağladır.
 
+[Bi Yıldız Atsan Be xd]
+
 # Sorununuz Mu Var ?
 
 Buradan Modül İndirmeden (Direk Kurulum Kısmının 4. Adımından Başlayarak) Kurabilirsiniz.
