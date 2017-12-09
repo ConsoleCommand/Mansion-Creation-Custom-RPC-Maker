@@ -1,6 +1,12 @@
 # Mansion-Creation-Custom-RPC-Maker
 Mansion Creation Tarafından Hazırlanmış TÜRKÇE , CUSTOM ve ÜCRETSİZ Olan Bir RPC Maker'dır
 
+# Sunucumuza Gelmeyi Unutma!
+
+Unutma Ki Her Bir Kişi Her Bir Yenilik İçin Bir Adım!!
+
+https://discord.gg/TJdbrWa
+
 # Node
 Node Olmazsa Program Hiçbirşekilde Açılmaz. Bu Linkten Son Sürümü İndirin.
 
@@ -51,6 +57,7 @@ Umarım Custom-RPC-Maker Hoşunuza Gitmiştir. Kurulumu Sizin Ve İntarnetinizin
 
 # Sorununuz Mu Var ?
 
-https://discord.gg/TJdbrWa
+1- Buradan Modül İndirmeden (Direk Kurulum Kısmının 4. Adımından Başlayarak) Kurabilirsiniz.
 
-Sunucuma Gelerek Yardım Alabilirsiniz.
+http://dosya.co/7wyvnwk6g02i/Mansion-Creation-Custom-RPC-Maker-master.rar.html
+
