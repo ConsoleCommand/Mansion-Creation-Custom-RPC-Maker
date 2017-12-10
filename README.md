@@ -39,6 +39,8 @@ https://notepad-plus-plus.org/download/
 
 7- En Aşşağıda "RICH PRESENCE ASSETS" Bölümüne Gelin Bir "Large" Birde "Small" Fotoğraf Yükleyin.
 
+NOT: Fotografları Aynı İsim İle Yüklemeyin ! Örnek: Large Fotograf mavis_1, Small Forograf mavis_2.
+
 8- Yaratılan "App"'in "ClientId"'sini Kopyalayın.
 
 9- Bunu Yaptıktan Sonra İndirip Dışarıya Çıkardığımız Klasöre Girelim. 
