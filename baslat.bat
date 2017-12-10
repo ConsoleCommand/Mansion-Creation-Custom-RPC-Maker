@@ -1,3 +1,3 @@
 @echo off
-TITLE Rich Presence
+TITLE Mansion Creation Custom Rpc
 node mavis.js
